@@ -1,9 +1,12 @@
 Hello Dev ! 😁
 Learning:
-- ![image](https://user-images.githubusercontent.com/62913130/130995061-ffb98935-1b7b-4d46-b16e-b5bf1afac37e.png)
-- ![image](https://user-images.githubusercontent.com/62913130/130993054-58c02f83-a082-43f2-b191-036ca5bf8732.png)
-- ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- <img height="40px" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"/>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
+</div>
 
 
 <div>
