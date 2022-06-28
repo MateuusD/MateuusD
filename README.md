@@ -1,20 +1,17 @@
 <div  align="center">
   <h2>Olá! Eu sou Mateus Dorian, bem vindo ao meu Github</h2>
 </div>
-<div  align="center">
+<div>
   <a href="https://github.com/MateuusD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateuusD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuusD&layout=compact&langs_count=7&theme=dark"/>
 </div>
- <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">   
-    
-    
 </div>
 <br>
 
