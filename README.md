@@ -19,4 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuusd&show_icons=true&theme=dark&title_color=6ac4fd&text_color=ffffff&locale=en&layout=compact" alt="mateuusd" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuusd&show_icons=true&theme=dark&title_color=6ac4fd&text_color=ffffff&locale=pt-br" alt="mateuusd" /></p>
