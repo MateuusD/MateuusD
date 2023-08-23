@@ -7,10 +7,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif"  />
-
-###
-
 <h3> :rocket: &nbsp;My Skills </h3>
 
 ###
